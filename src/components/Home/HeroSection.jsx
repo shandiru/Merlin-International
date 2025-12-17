@@ -50,7 +50,7 @@ const HeroSection = () => {
 
         {/* Prestige */}
         <p
-          className="text-5xl md:text-6xl text-primary leading-tight tracking-wide mt-4 mb-6"
+          className="text-5xl md:text-6xl text-primary font-bold leading-tight tracking-wide mt-4 mb-6"
           data-aos="fade-up"
           data-aos-delay="300"
         >
